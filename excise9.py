@@ -48,5 +48,5 @@ car1.drive(1.5)
 print(f'The current speed is {car1.current_speed}')
 print(f'The traveled distance is {car1.traveled_distance}')
 for car in cars:
-    print(f'car registration: {car.registration_number}, traveled_distance:{car.traveled_distance}')
+    print(f'car registration: {car.registration_number}, traveled_distance:{car.traveled_distance}.')
 
